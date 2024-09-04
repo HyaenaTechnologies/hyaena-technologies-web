@@ -6,7 +6,7 @@
 <a href="https://github.com/HyaenaTechnologies/hyaena_technologies">
   <h1>
     <picture>
-      <img src="https://github.com/HyaenaTechnologies/hyaena_technologies/blob/main/assets/ht_markdown.png" alt="">
+      <img src="https://github.com/HyaenaTechnologies/hyaena_technologies_web/blob/main/assets/ht_markdown.png" alt="">
     </picture>
   </h1>
 </a>
