@@ -11,9 +11,11 @@
   </h1>
 </a>
 
-# Hyaena Technologies
+# Hyaena Technologies Web
 
 Hyaena Technologies is an Open Source Technology company.
+
+Hyaena Technologies Web is the Web Implementation of Hyaena Technologies
 
 ## Build
 
