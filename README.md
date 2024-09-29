@@ -1,4 +1,3 @@
-[Android]: https://developer.android.com/studio
 [Dart]: https://dart.dev/
 [IDEA]: https://jetbrains.com/idea/
 [VSCode]: https://code.visualstudio.com/docs
@@ -19,7 +18,6 @@ Hyaena Technologies Web is the Web Implementation of Hyaena Technologies
 
 ## Build
 
-- [Android Studio][Android]
 - [Dart Language][Dart]
 - [IntelliJ IDEA][IDEA]
 - [Visual Studio Code][VSCode]
