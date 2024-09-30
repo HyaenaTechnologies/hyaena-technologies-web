@@ -2,10 +2,10 @@
 [IDEA]: https://jetbrains.com/idea/
 [VSCode]: https://code.visualstudio.com/docs
 
-<a href="https://github.com/HyaenaTechnologies/hyaena_technologies">
+<a href="https://github.com/HyaenaTechnologies/hyaena-technologies-web">
   <h1>
     <picture>
-      <img src="https://github.com/HyaenaTechnologies/hyaena_technologies_web/blob/main/assets/ht_markdown.png" alt="">
+      <img src="https://github.com/HyaenaTechnologies/hyaena-technologies-web/blob/main/assets/ht_markdown.png" alt="">
     </picture>
   </h1>
 </a>

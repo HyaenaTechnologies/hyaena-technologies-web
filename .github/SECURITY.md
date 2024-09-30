@@ -1,4 +1,4 @@
-[Report]: https://github.com/HyaenaTechnologies/hyaena_technologies_web/security/advisories
+[Report]: https://github.com/HyaenaTechnologies/hyaena-technologies-web/security/advisories
 
 # Security Policy
 
