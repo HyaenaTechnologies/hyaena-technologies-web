@@ -1,5 +1,7 @@
-import 'dart:async';
+import 'package:web/web.dart';
 
-Future<void> main(List<String> arguments) async {
-  print('Hyaena Technologies\n');
+Element div = document.querySelector('div')!;
+
+void main() async {
+  div.text = 'Hyaena Technologies';
 }
