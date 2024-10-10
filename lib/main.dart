@@ -1,7 +1,6 @@
 import 'package:web/web.dart';
-
-Element div = document.querySelector('div')!;
+import 'package:hyaena_technologies/elements.dart';
 
 void main() async {
-  div.text = 'Hyaena Technologies';
+  division.text = 'Hyaena Technologies';
 }
